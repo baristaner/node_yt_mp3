@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "ffmpeg-static": "^5.1.0",
+    "readline-sync": "^1.4.10",
+    "sanitize-filename": "^1.6.3",
+    "ytdl-core": "^4.11.4"
+  }
+}
